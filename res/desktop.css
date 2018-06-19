@@ -1,0 +1,10 @@
+#win_background {
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+#win_taskbar {
+	background: white;
+	color: black;
+}
